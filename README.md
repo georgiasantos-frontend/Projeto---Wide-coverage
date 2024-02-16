@@ -13,7 +13,7 @@ Fiquem ligados para mais atualizacoes e insights sobre minha jornada profissiona
 
 <p float="left">
 
-<img src="https://github.com/georgiasantos-frontend/Projeto--We-Care/blob/master/assets/desktop.png?raw=true" width="400">
+<img src="https://github.com/georgiasantos-frontend/Projeto---Wide-coverage/blob/master/assets/desktop.png?raw=true" width="400">
 
 <img src="https://github.com/georgiasantos-frontend/Projeto---Wide-coverage/blob/master/assets/mobile.png?raw=true" width="100" height="200">
 </p>
